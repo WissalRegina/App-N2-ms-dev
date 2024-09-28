@@ -1,0 +1,20 @@
+type Query{
+	compteList : [Compte]
+	findCompteById(id : String): Compte
+}
+type Mutation{
+	ajoutCompte(compte: CompteDTO) : Compte
+}
+type Compte{
+	id : String,
+	createdAt : Float,
+	balance : Float,
+	currency : String,
+	typeCompte: String
+}
+
+input CompteDTO{
+	balance : Float,
+	currency : String,
+	typeCompte: String
+}
