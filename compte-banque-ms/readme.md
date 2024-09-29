@@ -9,17 +9,17 @@ Création de l'entité JPA "Compte".
 
 ## 3ème étape :
 Création de l'interface `CompteRepository`.
-![Capture2](assets/compteRep.png)
+![Capture2](assets/CompteRep.png)
 
 ## 4ème étape - Test :
 Accéder à la base de données via le lien configuré dans le fichier `.properties`.
 ![Capture3](assets/TestConsole.png)
-![Capture4](assets/Test1.png)
-![Capture5](assets/Testdb.png)
+![Capture4](assets/Test2.png)
+![Capture5](assets/testdb.png)
 
 ## 5ème étape :
 Création du Web Service Rest qui permet de gérer des Comptes.
-![Capture6](assets/screenshot1.png)
+![Capture6](assets/controller.png)
 
 ## 6ème étape - Test des API :
 Tester le micro-service en utilisant un client REST comme Postman.
