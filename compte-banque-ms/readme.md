@@ -14,34 +14,34 @@ Création de l'interface `CompteRepository`.
 ## 4ème étape - Test :
 Accéder à la base de données via le lien configuré dans le fichier `.properties`.
 ![Capture3](assets/TestConsole.png)
-![Capture3](assets/Test1.png)
-![Capture3](assets/Testdb.png)
+![Capture4](assets/Test1.png)
+![Capture5](assets/Testdb.png)
 
 ## 5ème étape :
 Création du Web Service Rest qui permet de gérer des Comptes.
-![Capture5](assets/screenshot1.png)
+![Capture6](assets/screenshot1.png)
 
 ## 6ème étape - Test des API :
 Tester le micro-service en utilisant un client REST comme Postman.
-![Capture6](assets/testpostman.png)
-![Capture6](assets/testpostman2.png)
+![Capture7](assets/testpostman.png)
+![Capture8](assets/testpostman2.png)
 
 ## 7ème étape :
 Documentation Swagger.
-![Capture7](assets/swagger.png)
+![Capture9](assets/swagger.png)
 
 ## 8ème étape :
 Utilisation de Spring Data Rest en exploitant des projections.
-![Capture8](assets/datarest.png)
-![Capture8](assets/annotRest.png)
-![Capture8](assets/resultdatarest.png)
+![Capture10](assets/datarest.png)
+![Capture11](assets/annotRest.png)
+![Capture12](assets/resultdatarest.png)
 
 ## 9ème étape :
 Création des DTO, Mappers et la couche service.
-![Capture9](assets/test3.png)
-![Capture9](assets/test4.png)
+![Capture13](assets/test3.png)
+![Capture14](assets/test4.png)
 
 ## 10ème étape :
 Création d'un web service GraphQL.
-![Capture10](assets/graphqltest.png)
-![Capture10](assets/graphqltest2.png)
+![Capture15](assets/graphqltest.png)
+![Capture16](assets/graphqltest2.png)
